@@ -28,4 +28,4 @@ spec:
     spec:
       containers:
       - name: fast-con
-        image: subarashiman/fast:30
+        image: subarashiman/jenkins:1
